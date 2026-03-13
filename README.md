@@ -33,8 +33,7 @@ const rohit = {
   gpa:        "9.45 / 10.0",
   internship: "ProDesk IT",
   location:   "Jaipur, Rajasthan 🇮🇳",
-  interests:  ["React", "DSA", "Frontend Dev", "Problem Solving"],
-  currentlyBuilding: "ShopZone — E-Commerce SPA",
+  interests:  ["JavaScript", "DSA", "Frontend Dev", "Problem Solving"],
   funFact:    "I share DSA notes with peers to help them crack interviews 📚",
 };
 ```
@@ -64,11 +63,6 @@ const rohit = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 **Tools & Platforms**
 
