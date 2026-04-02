@@ -218,15 +218,6 @@ const rohit = {
 
 ---
 
-<!-- TROPHIES -->
-## 🏅 &nbsp; GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rohit551800&theme=darkhub&column=6&margin-w=10&margin-h=10&no-bg=true&title=Stars,Commits,Repositories,Followers,Issues,PullRequest" />
-
-</div>
-
 ---
 
 <!-- PROFILE VIEWS & FOOTER -->
