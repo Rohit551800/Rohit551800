@@ -30,7 +30,7 @@ const rohit = {
   name:       "Rohit Singh Gouria",
   role:       "Frontend Developer & CS Undergrad",
   college:    "Arya College of Engineering & IT, Jaipur",
-  gpa:        "9.45 / 10.0",
+  gpa:        "9.46 / 10.0",
   internship: "ProDesk IT",
   location:   "Jaipur, Rajasthan 🇮🇳",
   interests:  ["JavaScript", "DSA", "Frontend Dev", "Problem Solving"],
