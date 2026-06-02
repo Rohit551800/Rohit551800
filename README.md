@@ -35,7 +35,7 @@ const rohit = {
   gpa:        "9.46 / 10.0",
   internship: "ProDesk IT",
   location:   "Jaipur, Rajasthan 🇮🇳",
-  interests:  ["JavaScript", "DSA", "Frontend Dev", "Problem Solving"],
+  interests:  ["NodeJS","JavaScript", "DSA", "Frontend Dev", "Problem Solving"],
   funFact:    "I share DSA notes with peers to help them crack interviews 📚",
 };
 ```
