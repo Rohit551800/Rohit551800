@@ -30,7 +30,7 @@
 ```js
 const rohit = {
   name:       "Rohit Singh Gouria",
-  role:       "Frontend Developer & CS Undergrad",
+  role:       "Fullstack Developer & CS Undergrad",
   college:    "Arya College of Engineering & IT, Jaipur",
   gpa:        "9.46 / 10.0",
   internship: "ProDesk IT",
