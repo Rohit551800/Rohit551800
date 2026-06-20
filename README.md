@@ -7,7 +7,7 @@
 <!-- ANIMATED HEADER BANNER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rohit%20Singh%20Gouria&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20CS%20Undergrad%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rohit%20Singh%20Gouria&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20CS%20Undergrad%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
 </div>
 
