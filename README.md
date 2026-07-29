@@ -1,5 +1,3 @@
-
-
 <!-- ═══════════════════════════════════════════════════════════════
      GitHub Profile README — Rohit Singh Gouria (@Rohit551800)
      ═══════════════════════════════════════════════════════════════ -->
@@ -7,79 +5,88 @@
 <!-- ANIMATED HEADER BANNER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rohit%20Singh%20Gouria&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20CS%20Undergrad%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There%2C%20I'm%20Rohit%20%F0%9F%91%8B&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20CS%20Undergrad%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
 </div>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=28&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&multiline=false&width=600&lines=Building+Real-World+React+Apps;Learning+Something+New+Every+Day;Open+to+Internship+Opportunities;CS+Student+%40+ACEIT+Jaipur)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=60&lines=Building+Real-World+React+Apps+%F0%9F%9A%80;Solving+DSA%2C+One+Problem+at+a+Time+%F0%9F%A7%A9;Open+to+Internship+Opportunities+%F0%9F%92%BC;CS+Student+%40+ACEIT+Jaipur+%F0%9F%8E%93)](https://git.io/typing-svg)
 
-</div>
-
----
-
-<!-- ABOUT ME -->
-<div align="center">
-
-## 👨‍💻 &nbsp; About Me
-
-</div>
-
-```js
-const rohit = {
-  name:       "Rohit Singh Gouria",
-  role:       "Fullstack Developer & CS Undergrad",
-  college:    "Arya College of Engineering & IT, Jaipur",
-  gpa:        "9.46 / 10.0",
-  internship: "ProDesk IT",
-  location:   "Jaipur, Rajasthan 🇮🇳",
-  interests:  ["NodeJS","JavaScript", "DSA", "Frontend Dev", "Problem Solving"],
-  funFact:    "I share DSA notes with peers to help them crack interviews 📚",
-};
-```
-
-<div align="center">
-
+<!-- SOCIAL BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-singh-gouria)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rohit551800)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitsingh139915@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-E63946?style=for-the-badge&logo=vercel&logoColor=white)](https://rsgshopzone.netlify.app/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Rohit551800&color=E63946&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-<!-- TECH STACK -->
-## 🛠️ &nbsp; Tech Stack & Tools
+## 👨‍💻 About Me
+
+```js
+const rohit = {
+  name:        "Rohit Singh Gouria",
+  role:        "Fullstack Developer & CS Undergrad",
+  college:     "Arya College of Engineering & IT, Jaipur",
+  gpa:         "9.46 / 10.0",
+  internship:  "ProDesk IT",
+  location:    "Jaipur, Rajasthan 🇮🇳",
+  interests:   ["Node.js", "JavaScript", "DSA", "Frontend Dev", "System Design"],
+  currentlyLearning: "Node.js, Express & MongoDB",
+  funFact:     "I share DSA notes with peers to help them crack interviews 📚",
+  askMeAbout:  ["React", "JavaScript", "DSA", "Web Dev"],
+};
+```
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+- 🔭 Currently building **full-stack projects** with the MERN stack
+- 🌱 Learning **Node.js, Express & MongoDB** to go beyond the frontend
+- 👯 Looking to collaborate on **open-source web apps**
+- 💬 Ask me about **React, JavaScript & DSA**
+- ⚡ Fun fact: I debug faster with music on 🎧
+- 📫 Reach me at **rohitsingh139915@gmail.com**
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
 **Languages**
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
+<img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,mysql" />
 
 **Tools & Platforms**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,postman,figma" />
+
+**Currently Exploring**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react" />
 
 </div>
 
 ---
 
-<!-- PROJECTS -->
-## 🚀 &nbsp; Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -89,7 +96,7 @@ const rohit = {
       <h3 align="center">🛍️ ShopZone</h3>
       <p align="center">
         <a href="https://rsgshopzone.netlify.app/" target="_blank">
-          <img src="https://img.shields.io/badge/LIVE-rsgshopzone.netlify.app-E63946?style=for-the-badge&logo=netlify&logoColor=white" />
+          <img src="https://img.shields.io/badge/LIVE_DEMO-rsgshopzone.netlify.app-E63946?style=for-the-badge&logo=netlify&logoColor=white" />
         </a>
       </p>
       <p>
@@ -106,7 +113,7 @@ const rohit = {
       <h3 align="center">🔍 Dev-Detective</h3>
       <p align="center">
         <a href="https://github.com/Rohit551800" target="_blank">
-          <img src="https://img.shields.io/badge/LIVE-View_Project-1d3461?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/VIEW_PROJECT-GitHub-1d3461?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
       <p>
@@ -125,7 +132,7 @@ const rohit = {
       <h3 align="center">🎨 Thapa Technical Clone</h3>
       <p align="center">
         <a href="https://github.com/Rohit551800" target="_blank">
-          <img src="https://img.shields.io/badge/LIVE-View_Project-1d3461?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/VIEW_PROJECT-GitHub-1d3461?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
       <p>
@@ -158,27 +165,51 @@ const rohit = {
 
 ---
 
-<!-- GITHUB STATS -->
-## 📊 &nbsp; GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Rohit551800&show_icons=true&theme=github_dark&border_color=E63946&title_color=E63946&icon_color=E63946&text_color=f5f0e8&bg_color=0a0a0a&hide_border=false&count_private=true" height="170" />
-&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit551800&layout=compact&theme=github_dark&border_color=E63946&title_color=E63946&text_color=f5f0e8&bg_color=0a0a0a&hide_border=false" height="170" />
-
-</div>
-
-<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Rohit551800&theme=dark&background=0a0a0a&border=E63946&ring=E63946&fire=f4a261&currStreakNum=f5f0e8&sideNums=f5f0e8&currStreakLabel=E63946&sideLabels=888888&dates=888888" height="170" />
 
 </div>
 
+<div align="center">
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rohit551800&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&row=1&column=6" />
+
+</div>
+
 ---
 
-<!-- CERTIFICATIONS -->
-## 🏆 &nbsp; Certifications
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohit551800&bg_color=0a0a0a&color=f5f0e8&line=E63946&point=f4a261&area=true&area_color=E63946&hide_border=false&border_color=E63946" width="95%" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<!-- To activate: add the GitHub Actions workflow from
+     https://github.com/Platane/snk to your profile repo,
+     it will generate and update this image automatically. -->
+<img src="https://raw.githubusercontent.com/Rohit551800/Rohit551800/output/github-contribution-grid-snake-dark.svg" width="95%" />
+
+</div>
+
+---
+
+## 🏆 Certifications
 
 <div align="center">
 
@@ -194,8 +225,7 @@ const rohit = {
 
 ---
 
-<!-- EDUCATION -->
-## 🎓 &nbsp; Education
+## 🎓 Education
 
 <div align="center">
 
@@ -209,23 +239,31 @@ const rohit = {
 
 ---
 
-<!-- ACTIVITY GRAPH -->
-## 📈 &nbsp; Contribution Graph
+<details>
+<summary>💡 <b>Click for a random dev quote</b></summary>
+<br>
 
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</details>
+
+<details>
+<summary>😄 <b>Click to see my current mood while coding</b></summary>
+<br>
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohit551800&bg_color=0a0a0a&color=f5f0e8&line=E63946&point=f4a261&area=true&area_color=E63946&hide_border=false&border_color=E63946" width="95%" />
-
+<img src="https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif" width="300"/>
 </div>
+</details>
 
 ---
 
----
-
-<!-- PROFILE VIEWS & FOOTER -->
+<!-- FOOTER -->
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rohit551800&color=E63946&style=for-the-badge&label=PROFILE+VIEWS)
+### 📫 Let's Connect & Build Something Great!
+
+[![LinkedIn](https://img.shields.io/badge/-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-singh-gouria)
+[![Gmail](https://img.shields.io/badge/-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitsingh139915@gmail.com)
 
 <br/>
 
@@ -235,15 +273,4 @@ const rohit = {
 
 <!--
 **Rohit551800/Rohit551800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
