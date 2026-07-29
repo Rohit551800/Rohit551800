@@ -5,21 +5,23 @@
 <!-- ANIMATED HEADER BANNER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There%2C%20I'm%20Rohit%20%F0%9F%91%8B&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20CS%20Undergrad%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rohit%20Singh%20Gouria&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20CS%20Undergrad%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
 </div>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=60&lines=Building+Real-World+React+Apps+%F0%9F%9A%80;Solving+DSA%2C+One+Problem+at+a+Time+%F0%9F%A7%A9;Open+to+Internship+Opportunities+%F0%9F%92%BC;CS+Student+%40+ACEIT+Jaipur+%F0%9F%8E%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=28&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&multiline=false&width=600&lines=Solving+DSA%2C+One+Problem+at+a+Time;Learning+Something+New+Every+Day;Open+to+Internship+Opportunities;CS+Student+%40+ACEIT+Jaipur)](https://git.io/typing-svg)
+
+</div>
 
 <!-- SOCIAL BADGES -->
+<div align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-singh-gouria)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rohit551800)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitsingh139915@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-E63946?style=for-the-badge&logo=vercel&logoColor=white)](https://rsgshopzone.netlify.app/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rohit551800&color=E63946&style=for-the-badge&label=PROFILE+VIEWS)
 
@@ -40,7 +42,7 @@ const rohit = {
   interests:   ["Node.js", "JavaScript", "DSA", "Frontend Dev", "System Design"],
   currentlyLearning: "Node.js, Express & MongoDB",
   funFact:     "I share DSA notes with peers to help them crack interviews 📚",
-  askMeAbout:  ["React", "JavaScript", "DSA", "Web Dev"],
+  askMeAbout:  ["JavaScript", "DSA", "Web Dev", "Node.js"],
 };
 ```
 
@@ -48,10 +50,10 @@ const rohit = {
 <tr>
 <td width="60%" valign="top">
 
-- 🔭 Currently building **full-stack projects** with the MERN stack
+- 🔭 Currently building **full-stack projects** with Node.js & MongoDB
 - 🌱 Learning **Node.js, Express & MongoDB** to go beyond the frontend
 - 👯 Looking to collaborate on **open-source web apps**
-- 💬 Ask me about **React, JavaScript & DSA**
+- 💬 Ask me about **JavaScript, DSA & backend dev**
 - ⚡ Fun fact: I debug faster with music on 🎧
 - 📫 Reach me at **rohitsingh139915@gmail.com**
 
@@ -80,7 +82,7 @@ const rohit = {
 
 **Currently Exploring**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
 </div>
 
@@ -92,23 +94,6 @@ const rohit = {
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🛍️ ShopZone</h3>
-      <p align="center">
-        <a href="https://rsgshopzone.netlify.app/" target="_blank">
-          <img src="https://img.shields.io/badge/LIVE_DEMO-rsgshopzone.netlify.app-E63946?style=for-the-badge&logo=netlify&logoColor=white" />
-        </a>
-      </p>
-      <p>
-        A fully functional <strong>E-Commerce SPA</strong> built with React. No page reloads, global cart via Context API, protected checkout, persistent orders via localStorage.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" />
-        <img src="https://img.shields.io/badge/Context_API-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
-      </p>
-    </td>
     <td width="50%" valign="top">
       <h3 align="center">🔍 Dev-Detective</h3>
       <p align="center">
@@ -126,8 +111,6 @@ const rohit = {
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🎨 Thapa Technical Clone</h3>
       <p align="center">
@@ -144,13 +127,15 @@ const rohit = {
         <img src="https://img.shields.io/badge/Responsive-Design-10b981?style=flat-square" />
       </p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h3 align="center">📚 More Coming Soon...</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Status-In_Progress-f59e0b?style=for-the-badge" />
       </p>
-      <p>
-        Currently exploring <strong>full-stack development</strong>. Next projects will involve Node.js, Express, and MongoDB to complement my frontend skills.
+      <p align="center">
+        Currently exploring <strong>full-stack development</strong>. Next projects will involve Node.js, Express, and MongoDB.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
@@ -167,12 +152,28 @@ const rohit = {
 
 ## 📊 GitHub Stats
 
+<!--
+  NOTE ON RELIABILITY:
+  The shared public instance at github-readme-stats.vercel.app is community-run,
+  free, and gets hit by heavy traffic — it frequently returns 403/500 errors or
+  goes down for hours/days (tracked in anuraghazra/github-readme-stats issues).
+  The permanent fix is to deploy your OWN free copy on Vercel so you aren't
+  sharing rate limits with the entire internet:
+    1. Fork https://github.com/anuraghazra/github-readme-stats
+    2. Import that fork into Vercel (vercel.com → New Project)
+    3. Add your GitHub PAT as the PAT_1 env variable in Vercel settings
+    4. Replace "github-readme-stats.vercel.app" below with your own
+       "your-project-name.vercel.app" domain
+  Until you do that, the URLs below point at the shared instance and may
+  intermittently fail to load — that's the service, not your README.
+-->
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rohit551800&show_icons=true&theme=github_dark&border_color=E63946&title_color=E63946&icon_color=E63946&text_color=f5f0e8&bg_color=0a0a0a&hide_border=false&count_private=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit551800&layout=compact&theme=github_dark&border_color=E63946&title_color=E63946&text_color=f5f0e8&bg_color=0a0a0a&hide_border=false" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=Rohit551800&show_icons=true&theme=github_dark&border_color=E63946&title_color=E63946&icon_color=E63946&text_color=f5f0e8&bg_color=0a0a0a&hide_border=false&count_private=true" height="170" alt="Rohit's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit551800&layout=compact&theme=github_dark&border_color=E63946&title_color=E63946&text_color=f5f0e8&bg_color=0a0a0a&hide_border=false" height="170" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=Rohit551800&theme=dark&background=0a0a0a&border=E63946&ring=E63946&fire=f4a261&currStreakNum=f5f0e8&sideNums=f5f0e8&currStreakLabel=E63946&sideLabels=888888&dates=888888" height="170" />
+<img src="https://streak-stats.demolab.com?user=Rohit551800&theme=dark&background=0a0a0a&border=E63946&ring=E63946&fire=f4a261&currStreakNum=f5f0e8&sideNums=f5f0e8&currStreakLabel=E63946&sideLabels=888888&dates=888888" height="170" alt="GitHub streak stats" />
 
 </div>
 
@@ -196,16 +197,57 @@ const rohit = {
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Snake eating my Contribution Graph
 
 <div align="center">
 
-<!-- To activate: add the GitHub Actions workflow from
-     https://github.com/Platane/snk to your profile repo,
-     it will generate and update this image automatically. -->
-<img src="https://raw.githubusercontent.com/Rohit551800/Rohit551800/output/github-contribution-grid-snake-dark.svg" width="95%" />
+<img src="https://raw.githubusercontent.com/Rohit551800/Rohit551800/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Snake animation eating contribution graph" />
 
 </div>
+
+<!--
+  ⚠️ SETUP REQUIRED — this image is BLANK until you do this once:
+
+  1. In your Rohit551800/Rohit551800 repo, create the file:
+     .github/workflows/snake.yml
+     with exactly this content:
+
+     name: Generate Snake
+     on:
+       schedule:
+         - cron: "0 0 * * *"   # runs once a day
+       workflow_dispatch: {}
+       push:
+         branches: [ main ]
+     permissions:
+       contents: write
+     jobs:
+       generate:
+         runs-on: ubuntu-latest
+         steps:
+           - uses: Platane/snk@v3
+             with:
+               github_user_name: Rohit551800
+               outputs: |
+                 dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+                 dist/github-contribution-grid-snake.svg
+           - uses: crazy-max/ghaction-github-pages@v4
+             with:
+               target_branch: output
+               build_dir: dist
+             env:
+               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  2. Commit it and run it once manually:
+     repo → Actions tab → "Generate Snake" → Run workflow
+
+  3. It will push the generated SVG to a new "output" branch — the
+     <img> src above already points at that branch/path, so once step 2
+     finishes, the snake will appear and then auto-update daily.
+
+  Source project: https://github.com/Platane/snk
+-->
+
 
 ---
 
