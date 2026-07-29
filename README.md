@@ -18,6 +18,7 @@
 
 <!-- SOCIAL BADGES -->
 <div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-singh-gouria)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rohit551800)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
@@ -37,12 +38,12 @@ const rohit = {
   role:        "Fullstack Developer & CS Undergrad",
   college:     "Arya College of Engineering & IT, Jaipur",
   gpa:         "9.46 / 10.0",
-  internship:  "ProDesk IT",
+  internship:  "Weblabs Solution",
   location:    "Jaipur, Rajasthan 🇮🇳",
-  interests:   ["Node.js", "JavaScript", "DSA", "Frontend Dev", "System Design"],
+  interests:   ["Express.js", "JavaScript", "DSA", "Frontend Dev"],
   currentlyLearning: "Node.js, Express & MongoDB",
   funFact:     "I share DSA notes with peers to help them crack interviews 📚",
-  askMeAbout:  ["JavaScript", "DSA", "Web Dev", "Node.js"],
+  askMeAbout:  ["JavaScript", "DSA", "Web Dev", "Express.js"],
 };
 ```
 
@@ -145,43 +146,6 @@ const rohit = {
     </td>
   </tr>
 </table>
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<!--
-  NOTE ON RELIABILITY:
-  The shared public instance at github-readme-stats.vercel.app is community-run,
-  free, and gets hit by heavy traffic — it frequently returns 403/500 errors or
-  goes down for hours/days (tracked in anuraghazra/github-readme-stats issues).
-  The permanent fix is to deploy your OWN free copy on Vercel so you aren't
-  sharing rate limits with the entire internet:
-    1. Fork https://github.com/anuraghazra/github-readme-stats
-    2. Import that fork into Vercel (vercel.com → New Project)
-    3. Add your GitHub PAT as the PAT_1 env variable in Vercel settings
-    4. Replace "github-readme-stats.vercel.app" below with your own
-       "your-project-name.vercel.app" domain
-  Until you do that, the URLs below point at the shared instance and may
-  intermittently fail to load — that's the service, not your README.
--->
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rohit551800&show_icons=true&theme=github_dark&border_color=E63946&title_color=E63946&icon_color=E63946&text_color=f5f0e8&bg_color=0a0a0a&hide_border=false&count_private=true" height="170" alt="Rohit's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit551800&layout=compact&theme=github_dark&border_color=E63946&title_color=E63946&text_color=f5f0e8&bg_color=0a0a0a&hide_border=false" height="170" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=Rohit551800&theme=dark&background=0a0a0a&border=E63946&ring=E63946&fire=f4a261&currStreakNum=f5f0e8&sideNums=f5f0e8&currStreakLabel=E63946&sideLabels=888888&dates=888888" height="170" alt="GitHub streak stats" />
-
-</div>
-
-<div align="center">
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rohit551800&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&row=1&column=6" />
 
 </div>
 
