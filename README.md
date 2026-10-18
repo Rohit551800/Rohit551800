@@ -12,7 +12,7 @@
 | Project | What it is | Built with |
 | --- | --- | --- |
 | [STRIVER-DSA-NOTES](https://github.com/Rohit551800/STRIVER-DSA-NOTES) | Personal notes for the Striver DSA sheet, written in Hinglish and English while solving the problems. | C++ |
-| [Dev-Detective](https://github.com/Rohit551800?tab=repositories) | GitHub user search app with a Battle Mode that compares two developers by total stars. Async API calls, error handling, mobile-first layout. | JavaScript, GitHub API, HTML, CSS |
+| [Dev-Detective](https://rsg-dev-detector.netlify.app/) | GitHub user search app with a Battle Mode that compares two developers by total stars. Async API calls, error handling, mobile-first layout. | JavaScript, GitHub API, HTML, CSS |
 | [E-Com-Website](https://github.com/Rohit551800/E-Com-Website) | E-commerce website project. | CSS |
 
 ![Connect with Rohit](./assets/connect.svg?v=1)
