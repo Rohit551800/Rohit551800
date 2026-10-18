@@ -1,0 +1,9 @@
+Fonts: Bebas Neue (Ryoichi Tsunekawa / Dharma Type) and JetBrains Mono (JetBrains), both SIL Open Font License 1.1.
+Embedded as Latin-subset WOFF2 (via the @fontsource npm packages) inside each SVG.
+
+Brand icons: Simple Icons (CC0 1.0), https://simpleicons.org
+ - simple-icons 14.x (latest in npm at build time): C, C++, JavaScript, HTML5, CSS, MySQL, Git, GitHub, Netlify, Postman, Figma, Node.js, Express, MongoDB, LeetCode, Instagram.
+ - LinkedIn and Visual Studio Code marks are no longer in current Simple Icons, so they come from simple-icons 11.14.0.
+ Brand marks remain trademarks of their owners.
+
+Portraits: id.png and right_pointing.png supplied by the profile owner (AI-generated stylized portraits), background removed locally.
